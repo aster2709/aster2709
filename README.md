@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yash Mehta, a python developer and web developer. and my goals are to build a strong career in these field, with a lot of help, ofcourse!
-- 👀 I’m interested in machine learning, python modules and frameworks like django, keras, tkinter and much more.
-- 🌱 I’m currently learning math, working on competitive programming, and parts of what i mentioned above slowly
+- 👋 Hi, I’m Yash Mehta, a python developer and web developer. and my goals are to build a career in these fields!
+- 👀 I’m interested in web development, and blockchain mainly.
+- 🌱 I’m going to graduate in mid 2021, so I'm acquiring skills slowly.
 - 💞️ I’m looking to collaborate on projects are in my domain of experience, would passionately work on opportunies with a strong vision, and growth scope.
 - 📫 How to reach me ... linkedin.com/in/yash2709/
 
