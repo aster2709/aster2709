@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Yash Mehta, a python developer and web developer.
-- 💕 I’m interested in web development, and blockchain mainly.
+- 👋 Hi, I’m yash.
 - 🌱 Graduating in mid 2021.
 - 👀 looking to collaborate on projects.
 - 📫 How to reach me ... linkedin.com/in/yash2709/
