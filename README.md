@@ -1,10 +1,6 @@
-👋 Hi, I’m yash. 
+🌱 Hihi I'm a CSE student 22, passionate about blockchain and defi.
 
-🌌 My interests lie in blockchain and web development.
-
-🌱 I'm a CSE student, will graduate this year.
-
-👀 Really passionate about working collaboratively, so do hit me up for project ideas.
+👀 I like to indulge in learning and making projects on the fly, including Web Dev, do hit me up if you share the same interests.
 
 📫 Find me on... https://www.linkedin.com/in/yash2709/
 
