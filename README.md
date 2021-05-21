@@ -1,4 +1,4 @@
-🌱 Hihi I'm a CSE student 22, passionate about blockchain and defi.
+🌱 I'm passionate about blockchain and defi.
 
 👀 I like to indulge in learning and making projects on the fly, including Web Dev, do hit me up if you share the same interests.
 
