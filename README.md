@@ -1,6 +1,6 @@
 🌱 22, Mumbai.
 
-👀 Interests include Blockchain and Web Development
+👀 Interests include building blockchain dapps and Web Development
 
 📫 Find me at ymehta777@gmail.com
 
