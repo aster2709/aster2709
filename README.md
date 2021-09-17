@@ -4,7 +4,7 @@
 - 💼 Dapp experience highlights: 
   - NFT Marketplaces
   - Cross chain bridging
-  - Perpetual Swaps Contracts
+  - Perpetual Leveraged Swaps
   - Staking Modules
   - Frontend + Backend Integration
 
