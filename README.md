@@ -1,5 +1,5 @@
 # About me
-- 🌱 23, 🌃 Mumbai
+- 🌱 22, 🌃 Mumbai
 - ✨ Blockchains | DeFi | Web3
 - 💼 Dapp experience highlights: 
   - NFT Marketplaces
