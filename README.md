@@ -1,5 +1,5 @@
 # gm
-- 🙇 Namaste, I'm yash aka `ash`.
+- 🙇 Namaste, I'm ash.
 - 📜 Solidity scriptoor. trying to gain an edge over your edge :wink:
 - ✨ Working with teams to escalate innovation in defi and nft-financialization. currently the latter.
 - 🤝 Always delighted to contribute. I like my code in `prod`.
