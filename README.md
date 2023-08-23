@@ -1,4 +1,4 @@
-# gm
+# gm!
 - 🙇 gm.
 - 📜 Solidity scriptoor. trying to gain an edge over your edge :wink:
 - ✨ SC/backend @nftperp 🖼️
