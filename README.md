@@ -1,12 +1,23 @@
-# gm!
-- 🙇 gm.
-- 📜 Solidity scriptoor. trying to gain an edge over your edge :wink:
-- ✨ SC/backend @nftperp 🖼️
-- 🤝 Always delighted to contribute. I like my code in `prod`.
-- ☀️ Only positive vibes and `gm`. drop a hi on [twitter](https://twitter.com/0x_aster) _...no, i don't want your keys_
-- ℹ️ keywords: [solidity, web3, blockchain, dev, developer, engineer] :wink:
+# gm, i'm yash 👋
 
-<!---
-aster2709/aster2709 is a ✨ special ✨ repositose its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+senior backend engineer. 5 yoe building distributed systems, real-time infra, and LLM pipelines.
+
+### what i do
+- 🏗️ distributed backends — microservices, event-driven architecture, horizontally-scaled workers
+- ⚡ real-time systems — gRPC streams, WebSockets, BullMQ job queues
+- 🤖 AI-native dev — Claude Code, MCP tooling, multi-provider LLM orchestration (not just prompting)
+- ⛓️ crypto infra — Solana (Jupiter, Anchor), EVM (Solidity, Hardhat), on-chain indexing
+
+### recently
+- **sr backend eng @ [frenzy.fun](https://frenzy.fun)** — OTC trading pipelines, LLM trend detection, 14-service monorepo
+- **founder @ [attention.trade](https://x.com/attn_trade)** — real-time token discovery terminal, solo'd to $5k MRR
+- **backend + smart contracts @ nftperp** — perpetual futures exchange, protocol SDK, mainnet indexers
+
+### stack
+`TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Redis` `BullMQ` `Solidity` `Docker` `Turborepo`
+
+### links
+- 🐦 [twitter](https://x.com/0x_aster)
+- 💼 [linkedin](https://linkedin.com/in/yash2709)
+
+currently hunting for the next thing. if you're building something ambitious, [let's talk](https://x.com/0x_aster).
